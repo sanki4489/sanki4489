@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sankalp Verma
 - 👀 I’m interested in Full stack development, Cloud computing and Data Science
-- 🌱 I’m currently learning React, Go, Azure
+- 🌱 I’m currently learning React, Rails, Azure
 - 💞️ I’m looking to collaborate on everythiing
 - 📫 How to reach me -> sunklapverma4489@gmail.com
 
