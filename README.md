@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sankalp Verma
 - 👀 I’m interested in Full stack development, Server side and cloud computing.
 - I am workin on rails6 and SQL.
-- 🌱 I’m currently learning Docker and node.js
-- 💞️ I’m looking to collaborate on Rails6.
+- 🌱 I’m currently learning React and nuxt.js
+- 💞️ I’m looking to collaborate on Rails6, vue and nuxt.
 - 📫 How to reach me -> sunklapverma4489@gmail.com
 
 <!---
