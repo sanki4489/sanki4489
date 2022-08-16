@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanki4489&label=Profile%20views&color=0e75b6&style=flat" alt="sanki4489" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=sanki4489&theme=buddhism"><img src="https://github-profile-trophy.vercel.app/?username=sanki4489" alt="sanki4489" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=sanki4489&theme=buddhism"><img src="https://github-profile-trophy.vercel.app/?username=sanki4489&theme=buddhism" alt="sanki4489" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sankalpverma16" target="blank"><img src="https://img.shields.io/twitter/follow/sankalpverma16?logo=twitter&style=for-the-badge" alt="sankalpverma16" /></a> </p>
 
