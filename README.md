@@ -16,15 +16,9 @@
 
 - 🤝 I’m looking to help on **Vue.js and Rails**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanki4489?tab=repositories](https://github.com/sanki4489?tab=repositories)
-
-- 📝 I regularly write code on [vue and rails.](vue and rails.)
-
 - 💬 Ask me about **vue, nuxt and rails.**
 
 - 📫 How to reach me **sunklapverma4489@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/sanki4489?tab=repositories](https://github.com/sanki4489?tab=repositories)
 
 - ⚡ Fun fact **I like to code.**
 
