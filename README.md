@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/sankalpverma16" target="blank"><img src="https://img.shields.io/twitter/follow/sankalpverma16?logo=twitter&style=for-the-badge" alt="sankalpverma16" /></a> </p>
 
-- 🔭 I’m currently working on **Vue, Nuxt.js and Rails**
+- 🔭 I’m currently working on **TypeScripts and Rails**
 
-- 🌱 I’m currently learning **Nuxt.js and React.**
+- 🌱 I’m currently learning **Angular.**
 
 - 👯 I’m looking to collaborate on **Vue.js and Nuxt.js.**
 
