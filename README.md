@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/sankalpverma16" target="blank"><img src="https://img.shields.io/twitter/follow/sankalpverma16?logo=twitter&style=for-the-badge" alt="sankalpverma16" /></a> </p>
 
-- 🔭 I’m currently working on **TypeScripts and Rails**
+- 🔭 I’m currently working on **TypeScripts and Ruby**
 
-- 🌱 I’m currently learning **Angular.**
+- 🌱 I’m currently learning **Project Management and SAP.**
 
-- 👯 I’m looking to collaborate on **Vue.js and Nuxt.js.**
+- 👯 I’m looking to collaborate on **ruby, rails and next.js**
 
-- 🤝 I’m looking to help on **Vue.js and Rails**
+- 🤝 I’m looking to help on **next.js Rails**
 
-- 💬 Ask me about **vue, nuxt and rails.**
+- 💬 Ask me about **next.js, nuxt.js and rails.**
 
 - 📫 How to reach me **sunklapverma4489@gmail.com**
 
